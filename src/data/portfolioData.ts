@@ -62,7 +62,7 @@ export const PROJECTS: Project[] = [
     ],
 
     githubUrl: "https://github.com/Samyam-Stha/Recipe-Web-App",
-    deployedLink: "https://recipe-web-app-beryl-seven.vercel.app/",
+    deployedLink: "https://recipe-web-app-samyam.vercel.app",
 
     keyContributions: [
       "Built a full-featured recipe discovery system integrating TheMealDB API with real-time search, category filtering, cuisine-based filtering, and responsive grid layouts with skeleton loading states.",
