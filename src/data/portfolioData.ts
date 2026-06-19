@@ -221,7 +221,7 @@ export const EXPERIENCE_DATA: JobRole[] = [
     id: 1,
     title: "Frontend Development Trainee",
     company: "Smart Idea Pvt. Ltd. Affiliated with HamroPatro Inc.",
-    duration: "Apr 2026 - Present",
+    duration: "March 2026 - June 2026",
     location: "Sifal, Kathmandu, Nepal",
     keyContributions: [
       "Served as the sole frontend developer for the Football CMS platform, leading frontend development from scratch.",
@@ -262,7 +262,7 @@ export const EXPERIENCE_DATA: JobRole[] = [
     id: 2,
     title: "Frontend Development Intern",
     company: "Smart Idea Pvt. Ltd. Affiliated with HamroPatro Inc.",
-    duration: "Jan 2026 - Mar 2026",
+    duration: "Nov 2025 - Feb 2026",
     location: "Sifal, Kathmandu, Nepal",
 
     keyContributions: [
