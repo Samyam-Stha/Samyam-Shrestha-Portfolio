@@ -6,6 +6,7 @@ export interface Project {
   overview: string;
   tags: string[];
   githubUrl: string;
+  githubUrlSecond?: string;
   deployedLink: string;
   keyContributions: string[];
 }
@@ -140,7 +141,8 @@ export const PROJECTS: Project[] = [
       "Vercel",
     ],
 
-    githubUrl: "https://github.com/Samyam-Stha/FinTrack",
+    githubUrl: "https://github.com/Samyam-Stha/FinTrackFE",
+    githubUrlSecond: "https://github.com/Samyam-Stha/FinTrackBE",
     deployedLink: "https://fin-track-fe1.vercel.app/",
 
     keyContributions: [
@@ -178,8 +180,8 @@ export const PROJECTS: Project[] = [
       "Component Architecture",
     ],
 
-    githubUrl: "https://github.com/Samyam-Stha",
-    deployedLink: "",
+    githubUrl: "https://github.com/Samyam-Stha/Samyam-Shrestha-Portfolio",
+    deployedLink: "https://samyam-shrestha-portfolio.vercel.app/",
 
     keyContributions: [
       "Designed and developed a fully responsive personal portfolio website using React 19, TypeScript, and Tailwind CSS with a modular component-based architecture for scalability and maintainability.",
@@ -235,15 +237,14 @@ export const EXPERIENCE_DATA: JobRole[] = [
     ],
     skills: [
       "React JS",
+      "SvelteKit",
       "TypeScript",
       "JavaScript",
       "Tailwind CSS",
       "REST APIs",
       "LiveKit WebRTC",
       "Git",
-      "GitHub",
-      "Responsive Design",
-      "State Management",
+      "BitBucket",
     ],
     subtitle: "Smart Idea Pvt. Ltd. / HamroPatro Inc.",
     overview:

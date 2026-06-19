@@ -61,7 +61,8 @@ export default function App() {
             </a>
             <a
               className="border border-border px-6 py-3 rounded-xl hover:bg-muted/10 transition-colors duration-200 font-medium"
-              href=""
+              href="https://github.com/Samyam-Stha"
+              target="_blank"
             >
               GitHub
             </a>

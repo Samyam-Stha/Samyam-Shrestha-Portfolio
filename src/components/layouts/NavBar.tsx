@@ -29,7 +29,7 @@ export default function NavBar() {
   return (
     <div className="w-full h-24 md:bg-card/70 sticky top-0 md:backdrop-blur border-b border-muted/30 flex items-center px-7 justify-between z-50">
       <div className="text-heading-text font-bold text-2xl">
-        <h1>&lt;Samyam /&gt;</h1>
+        <h1>&lt;Samyam Shrestha/&gt;</h1>
       </div>
 
       <div className="hidden md:flex items-center gap-6 text-muted font-medium">
